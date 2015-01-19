@@ -1,0 +1,12 @@
+http://www.dblp.org/pers/xc/h/Hassan:Samer
+http://www.dblp.org/pers/xc/p/Pav=oacute=n:Juan
+http://www.dblp.org/pers/xc/a/Arroyo:Javier
+http://www.dblp.org/pers/xc/f/Fuentes:Rub=eacute=n
+http://www.dblp.org/pers/xc/g/Guti=eacute=rrez:Celia
+http://www.dblp.org/pers/xc/g/G=oacute=mez=Sanz:Jorge_J=
+http://www.dblp.org/pers/xc/g/Gerv=aacute=s:Pablo
+http://www.dblp.org/pers/xc/j/Jim=eacute=nez=D=iacute=az:Guillermo
+http://www.dblp.org/pers/xc/g/Gonz=aacute=lez=Calero:Pedro_A=
+http://www.dblp.org/pers/xc/d/D=iacute=az=Agudo:Bel=eacute=n
+http://www.dblp.org/pers/xc/m/Moreno=Ger:Pablo
+http://www.dblp.org/pers/xc/h/Hern=aacute=ndez=Y=aacute==ntilde=ez:Luis
